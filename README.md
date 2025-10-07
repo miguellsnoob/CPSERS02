@@ -41,5 +41,5 @@ deliverable_repo/
 - Solar Radiation Prediction Dataset — Kaggle: https://www.kaggle.com/datasets/dronio/SolarEnergy
 - Wind Turbine SCADA Dataset — Kaggle: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
-  - Executar o notebook aqui 
+  - Executar o notebook 
   - Gerar relatórios gráficos 
