@@ -4,8 +4,8 @@
 ## Estrutura do repositório
 ```
 deliverable_repo/
-├─ data/                      # datasets (coloque aqui os CSVs se não estiverem)
-│  └─ appliances_extracted/    # conteúdo extraído do zip enviado
+├─ data/                      # datasets 
+│  └─ appliances_extracted/    
 ├─ notebooks/
 │  ├─ regression_appliances.ipynb
 │  └─ solar_wind_templates.ipynb
@@ -15,7 +15,7 @@ deliverable_repo/
 
 ## Como usar
 1. Abra um terminal e navegue até a pasta `deliverable_repo`.
-2. (Opcional) Crie um ambiente virtual:
+2. Crie um ambiente virtual:
    ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
@@ -41,7 +41,5 @@ deliverable_repo/
 - Solar Radiation Prediction Dataset — Kaggle: https://www.kaggle.com/datasets/dronio/SolarEnergy
 - Wind Turbine SCADA Dataset — Kaggle: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
-  - Executar o notebook aqui (se me autorizar a instalar dependências e executar treinos).
-  - Gerar relatórios gráficos (ex.: comparação de modelos).
-  - Ajudar a criar o repositório remoto no GitHub (preciso que você me dê permissão/OAuth e me instrua — eu **não** posso subir direto sem credenciais**).
-
+  - Executar o notebook aqui 
+  - Gerar relatórios gráficos 
